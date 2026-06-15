@@ -1,0 +1,14 @@
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\bin\Debug\net8.0\KnjiznicaApp.exe
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\bin\Debug\net8.0\KnjiznicaApp.deps.json
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\bin\Debug\net8.0\KnjiznicaApp.runtimeconfig.json
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\bin\Debug\net8.0\KnjiznicaApp.dll
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\bin\Debug\net8.0\KnjiznicaApp.pdb
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.AssemblyInfoInputs.cache
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.AssemblyInfo.cs
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.dll
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\refint\KnjiznicaApp.dll
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.pdb
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\KnjiznicaApp.genruntimeconfig.cache
+C:\Users\NIKA\Downloads\KnjiznicaApp\KnjiznicaApp\obj\Debug\net8.0\ref\KnjiznicaApp.dll
